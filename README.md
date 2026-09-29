@@ -16,3 +16,7 @@ Ahora estoy en rama1
 
 He creado rama2
 
+
+
+He unido rama1 con rama
+
